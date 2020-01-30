@@ -15,6 +15,7 @@ board_d = 751
 board_l = 86
 board_r = 1459
 
+
 class Ball():
     def __init__(self, number):
         self.number = number
